@@ -14,4 +14,4 @@ Make sure "Mongo" running with following values:
 	MONGO_PASSWORD = ''
 
 Running Program : 
-	# python github_monitor.py <org_name> <auth_token>
+	# python github_monitor.py &lt;org_name&gt; &lt;auth_token&gt;
